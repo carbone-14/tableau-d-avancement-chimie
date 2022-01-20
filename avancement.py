@@ -24,7 +24,7 @@ def b():  # 2 reactifs 2 produit
     efp2 = coeff_produit2 * xf
 
     print("------------------------------------------------------------------------------")
-    print("|Eq  | ", coeff_react1, " R1  + ", coeff_react2, " R2 --> ", coeff_produit1," P1|", coeff_produit2," P2|")
+    print("|Eq  | ", coeff_react1, " R1  + ", coeff_react2, " R2 --> ", coeff_produit1," P1 +", coeff_produit2," P2|")
     print("|-----------------------------------------------------------------------------------")
     print("|EIn |  ", qdm_react1, "  |  ", qdm_react2, "  |   0   |   0   |")
     print("|-----------------------------------------------------------------------------------")  
