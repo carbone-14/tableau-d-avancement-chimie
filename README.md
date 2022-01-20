@@ -11,3 +11,6 @@ tout ce qui concerne le produit 2. Je l'ai fait rapidement et n'ai pas essayé d
 
 Vous pouvez le transférer sur votre calculatrice Numworks via https://getomega.dev/ide
 Attention le transfert de fichier ne fonctionne que sur chrome
+Dernière chose, si vous ne voulez pas prendre le risque de supprimer vos programmes sur votre calculatrice, pensez à faire une backup toujours sur https://getomega.dev/ide
+
+Si vous avez des problèmes ou des questions --> discord : parrotOnZe_skateboard#9839
