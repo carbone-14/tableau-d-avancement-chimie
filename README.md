@@ -9,4 +9,5 @@ Ce programme fonctionne très bien sur les calculatrices Numworks, je n'ai pas t
 Vous n'avez juste qu'à rentrer les nombres de moles et coefficients pour chaques réactifs les coefficients pour chaques produits. Si vous n'avez qu'un seul produit mettez 0 pour 
 tout ce qui concerne le produit 2. Je l'ai fait rapidement et n'ai pas essayé de l'optimiser, libre à vous de l'améliorer et de l'adapter à vos besoins.
 
-
+Vous pouvez le transférer sur votre calculatrice Numworks via https://getomega.dev/ide
+Attention le transfert de fichier ne fonctionne que sur chrome
